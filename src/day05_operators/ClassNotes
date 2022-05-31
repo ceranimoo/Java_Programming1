@@ -1,0 +1,23 @@
+
+
+Java Programming Day05
+Topics: Operators
+
+
+			- Unary
+			- Shorthand
+			- Relational
+			- Logical
+			- Unary:  -, +, --, ++ (post/pre)
+			- Shorthand: =, +=, -=, *=, /=, %=
+			- Relational: >, < , <=, >=, ==, !=
+			- Logical: &&, ||, !
+
+package name: day05_operators
+
+@@ -47,6 +47,9 @@ Negative Numbers:
+
+
+
+&&: both
+||: either
